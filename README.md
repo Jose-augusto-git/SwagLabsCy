@@ -76,4 +76,6 @@ Os seguintes cenários de teste foram validados de acordo com o arquivo `teste-l
 
 ## ✒️ Autor
 
+![10 03 2026_17 30 33_REC](https://github.com/user-attachments/assets/d348a0d0-970d-494c-8692-c84c51b94789)
+
 Projeto criado e mantido como demonstração de automação com Cypress.
