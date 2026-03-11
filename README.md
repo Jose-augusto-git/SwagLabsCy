@@ -74,8 +74,8 @@ Os seguintes cenários de teste foram validados de acordo com o arquivo `teste-l
 **CT05** - Informar usuário válido e não informar a senha  
 **CT06** - Não informar o usuário e informar a senha correta  
 
-## ✒️ Autor
-
 ![10 03 2026_17 30 33_REC](https://github.com/user-attachments/assets/d348a0d0-970d-494c-8692-c84c51b94789)
+
+## ✒️ Autor José
 
 Projeto criado e mantido como demonstração de automação com Cypress.
